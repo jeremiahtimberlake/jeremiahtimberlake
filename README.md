@@ -2,7 +2,7 @@
 
 I’m Jeremiah, a creative programmer and Digital Media Master's student in Atlanta.
 
-I currently study at Georgia Tech, where I focus on game design and analysis, interactive systems, and experimental approaches to interaction and meaning-making in digital media. My work often sits at the intersection of code, play, and theory, blending technical systems with expressive and speculative design.
+I currently study @ Georgia Tech, where I focus on game design and analysis, interactive systems, and experimental approaches to interaction and meaning-making in digital media. My work often sits at the intersection of code, play, and theory, blending technical systems with expressive and speculative design.
 
 I build interactive experiences across games, creative coding projects, and mobile apps—often exploring mechanics as arguments and systems that shape player behavior and interpretation.
 
