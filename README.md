@@ -7,7 +7,7 @@ I currently study @Georgia Tech, where I focus on game design and analysis, inte
 I build interactive experiences across games, creative coding projects, and mobile apps—often exploring mechanics as arguments and systems that shape player behavior and interpretation.
 
 I'm currently working on:
-- [TokenVerse](https://www.huijia.design/design/tokenverse-a-game-based-learning-approach-to-teaching-llm-concepts), a game-based learning approach to teaching LLM concepts created by [Freya Huang](https://www.huijia.design/about-me)
+- [TokenVerse](https://www.huijia.design/design/tokenverse-a-game-based-learning-approach-to-teaching-llm-concepts), a game-based learning approach to teaching LLM concepts, created by [Freya Huang](https://www.huijia.design/about-me)
 - Graduate-level coursework in Machine Learning, Interactive Fiction, and Interaction Design
 
 My tech stack:
