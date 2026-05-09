@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://github.com/user-attachments/assets/863a0e95-60f1-41a2-b0d9-6b5971c506c2" width="30" height="auto" />
 
-I’m Jeremiah, a creative programmer and Digital Media Master's student in Atlanta.
+I’m Jeremiah, a creative programmer and [Digital Media](https://dm.lmc.gatech.edu/?doing_wp_cron=1751127059.3787100315093994140625) Master's student in Atlanta.
 
 I currently study @Georgia Tech, where I focus on game design and analysis, interactive systems, and experimental approaches to interaction and meaning-making in digital media. My work often sits at the intersection of code, play, and theory, blending technical systems with expressive and speculative design.
 
