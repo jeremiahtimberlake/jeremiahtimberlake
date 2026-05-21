@@ -7,9 +7,8 @@ I currently study @Georgia Tech, where I focus on game design and analysis, inte
 I build interactive experiences across games, creative coding projects, and mobile apps—often exploring mechanics as arguments and systems that shape player behavior and interpretation.
 
 I'm currently working on:
-- [TokenVerse](https://www.huijia.design/design/tokenverse-a-game-based-learning-approach-to-teaching-llm-concepts) | An Educational Game for Understanding Large Language Models, created by [Freya Huang](https://www.huijia.design/about-me)
-- Biophilia, an upcoming interactive web and VR gallery experience exploring connection, perception, and the natural world through immersive design
-- Teaching Unity, Python, and hands-on engineering/design courses this summer at [iD Tech](https://www.idtech.com/)
+- [*TokenVerse*](https://www.huijia.design/design/tokenverse-a-game-based-learning-approach-to-teaching-llm-concepts) an educational AI literacy game exploring the internal systems, risks, and limitations of large language models through interactive simulation gameplay, created by [Freya Huang](https://www.huijia.design/about-me).
+- *Biophilia*, an upcoming, immersive VR and web-based art installation led by artist [Belinda Person](https://artbelab.com/) in collaboration with [Krystian Ramlogan](https://www.linkedin.com/in/krystianramlogan/), exploring human relationships with the natural world through painting, sound, and spatial design inspired by Indigenous ecological knowledge.
 
 My tech stack:
 
