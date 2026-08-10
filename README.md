@@ -1,13 +1,13 @@
 ### Hi there! <img src="https://github.com/user-attachments/assets/863a0e95-60f1-41a2-b0d9-6b5971c506c2" width="30" height="auto" />
 
-I’m Jeremiah, a creative programmer and [Digital Media](https://dm.lmc.gatech.edu/?doing_wp_cron=1751127059.3787100315093994140625) Master's student in Atlanta.
+I’m Jeremiah, a creative programmer and Digital Media Master's student in Atlanta.
 
 I currently study @Georgia Tech, where I focus on game design and analysis, interactive systems, and experimental approaches to interaction and meaning-making in digital media. My work often sits at the intersection of code, play, and theory, blending technical systems with expressive and speculative design.
 
 I build interactive experiences across games, creative coding projects, and mobile apps—often exploring mechanics as arguments and systems that shape player behavior and interpretation.
 
 I'm currently working on:
-- [*TokenVerse*](https://www.huijia.design/design/tokenverse-a-game-based-learning-approach-to-teaching-llm-concepts) an educational AI literacy game exploring the internal systems, risks, and limitations of large language models through interactive simulation gameplay, created by [Freya Huang](https://www.huijia.design/about-me).
+- [*TokenVerse*](https://tokenverse.cc/) an educational AI literacy game exploring the internal systems, risks, and limitations of large language models through interactive simulation gameplay, created by [Freya Huang](https://www.huijia.design/about-me). **Presented at the [Games for Change Festival 2026](https://festival.gamesforchange.org/).**
 - *Biophilia*, an upcoming, immersive VR and web-based art installation led by artist [Belinda Person](https://artbelab.com/) in collaboration with [Krystian Ramlogan](https://www.linkedin.com/in/krystianramlogan/), exploring human relationships with the natural world through painting, sound, and spatial design inspired by Indigenous ecological knowledge.
 
 My tech stack:
